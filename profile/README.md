@@ -12,9 +12,9 @@ AOXC is a modular infrastructure designed to bridge the structural gaps between 
 Our architecture is bifurcated into a centralized orchestration layer and network-specific execution modules:
 
 * **[aoxcon](https://github.com/aoxc/aoxcon)** – 🖥️ **Central Hub:** The primary administrative interface and system orchestrator.
-* **[aoxcore-xlayer](https://github.com/aoxc/aoxcore-xlayer)** – ⚡ **EVM Execution Engine:** High-performance Solidity core optimized for the X Layer environment.
-* **[aoxcore-sui](https://github.com/aoxc/aoxcore-sui)** – 💧 **Move Module:** Object-centric state management leveraging Sui and Walrus decentralized storage.
-* **[aoxcore-cardano](https://github.com/aoxc/aoxcore-cardano)** – ₳ **UTXO Ledger:** Formalized validator logic utilizing Plutus and Aiken toolchains.
+* **[aoxcore-xlayer](https://github.com/aoxc/aoxcon-evm)** – ⚡ **EVM Execution Engine:** High-performance Solidity core optimized for the X Layer environment.
+* **[aoxcore-sui](https://github.com/aoxc/aoxcon-move)** – 💧 **Move Module:** Object-centric state management leveraging Sui and Walrus decentralized storage.
+* **[aoxcore-cardano](https://github.com/aoxc/aoxcon-plutus)** – ₳ **UTXO Ledger:** Formalized validator logic utilizing Plutus and Aiken toolchains.
 
 ---
 
