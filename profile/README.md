@@ -1,35 +1,47 @@
-# AOXC | Sovereign Infrastructure & Cross-Chain Coordination
+# AOXC | Verifiable Interoperability Infrastructure
 
-> **"Quietly building the bridges of tomorrow."** 🌉  
-> *A research and development collective focused on high-integrity, multi-chain synchronization and decentralized systems.*
+> **Research-oriented blockchain engineering with X Layer as the current operational base.**
 
----
-
-### ⚠️ Experimental Nature & Advisory
-**Notice:** This ecosystem is currently in a high-intensity research and prototyping phase. All implementations—especially those involving autonomous intelligent agents—are **experimental**. We prioritize structural integrity over deployment speed. Users and researchers should proceed with caution and professional scrutiny.
+AOXC is an alpha-stage blockchain project focused on deterministic interoperability, explicit trust boundaries, and auditable system behavior.
 
 ---
 
-### 🧬 Vision & Scientific Approach
-AOXC is a modular infrastructure designed to bridge the structural gaps between disparate blockchain ecosystems. By integrating **neural-inspired logic** with **decentralized governance models**, we provide a robust foundation for next-generation decentralized applications. Our approach emphasizes **systemic resilience**, utilizing minimalist intelligence to secure cross-chain state transitions.
+## Current Scope (Alpha)
 
-### 🏗️ Modular Ecosystem
-Our architecture is distributed across specialized functional layers:
+At this stage, AOXC follows a limited and practical scope:
 
-* **[aoxcon](https://github.com/aoxc/aoxcon)** – 🖥️ **Central Hub:** The primary administrative interface and system orchestrator.
-* **[aoxcore-synapse](https://github.com/aoxc/aoxcore-synapse)** – 🧠 **Cognitive Layer:** Experimental framework for minimalist intelligent agents and neural-based security.
-* **[aoxcon-evm](https://github.com/aoxc/aoxcon-evm)** – ⚡ **EVM Engine:** High-performance Solidity core optimized for X Layer.
-* **[aoxcon-move](https://github.com/aoxc/aoxcon-move)** – 💧 **Move Module:** Object-centric state management leveraging Sui and Walrus decentralized storage.
-* **[aoxcon-plutus](https://github.com/aoxc/aoxcon-plutus)** – ₳ **UTXO Ledger:** Formalized validator logic utilizing Plutus and Aiken toolchains.
+- run and validate live deployments,
+- test cross-chain design assumptions step by step,
+- expand only after technical stability is demonstrated.
+
+This means the current architecture is intentionally narrow and iterative.
 
 ---
 
-### 🛠️ Research & Development Status (Alpha)
-We are currently synthesizing the core layers of our multi-chain environment. To ensure transparency, our research remains open-source, though iterative changes are frequent.
+## Primary Operational Network
 
-* 🧪 **Intelligence Research:** Developing "Micro-Neurons" (specialized agents) for autonomous ecosystem monitoring.
-* 🔧 **State Synchronization:** Achieving deterministic consistency between EVM, Move, and UTXO layers.
-* 🧠 **Neural Bridging:** Prototyping quorum-based consensus mechanisms for secure data propagation.
+For the current phase, **X Layer is the main active network** for AOXChain.
 
 ---
-*Built with integrity for a decentralized future.*
+
+## Live X Layer References
+
+- **Main Contract:** https://www.oklink.com/tr/x-layer/address/0x97bdd1fd1caf756e00efd42eba9406821465b365/contract
+- **Proxy Token Contract:** https://www.oklink.com/tr/x-layer/token/0xeb9580c3946bb47d73aae1d4f7a94148b554b2f4?tab=contract
+- **Multisig Contract:** https://www.oklink.com/tr/x-layer/address/0x20c0dd8b6559912acfac2ce061b8d5b19db8ca84/contract
+
+These links are provided for direct, independent verification of live on-chain artifacts.
+
+---
+
+## Repository Note
+
+This `.github` repository provides organization-level profile and documentation content.
+
+For code and deployments, refer to the repositories that are actually published under the **aoxc** organization (for example, `aoxchain`).
+
+---
+
+## Maturity Statement
+
+AOXC is in an **active alpha research phase**. Rapid iteration is expected while technical assumptions are validated.
