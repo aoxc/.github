@@ -1,29 +1,47 @@
-# AOXC | Sovereign Infrastructure & Cross-Chain Coordination
+# AOXC | Verifiable Interoperability Infrastructure
 
-> **"Quietly building the bridges of tomorrow."** 🌉  
-> *A research and development collective focused on high-integrity, multi-chain synchronization and decentralized systems.*
+> **Research-oriented blockchain engineering with X Layer as the current operational base.**
 
----
-
-### 🧬 Vision & Scientific Approach
-AOXC is a modular infrastructure designed to bridge the structural gaps between disparate blockchain ecosystems. By integrating **neural-inspired logic** with **decentralized governance models**, we provide a robust and scalable foundation for next-generation decentralized applications (DApps). Our approach prioritizes formal integrity and systemic resilience over speculative speed.
-
-### 🏗️ Modular Ecosystem
-Our architecture is bifurcated into a centralized orchestration layer and network-specific execution modules:
-
-* **[aoxcon](https://github.com/aoxc/aoxcon)** – 🖥️ **Central Hub:** The primary administrative interface and system orchestrator.
-* **[aoxcore-xlayer](https://github.com/aoxc/aoxcore-xlayer)** – ⚡ **EVM Execution Engine:** High-performance Solidity core optimized for the X Layer environment.
-* **[aoxcore-sui](https://github.com/aoxc/aoxcore-sui)** – 💧 **Move Module:** Object-centric state management leveraging Sui and Walrus decentralized storage.
-* **[aoxcore-cardano](https://github.com/aoxc/aoxcore-cardano)** – ₳ **UTXO Ledger:** Formalized validator logic utilizing Plutus and Aiken toolchains.
+AOXC is an alpha-stage blockchain project focused on deterministic interoperability, explicit trust boundaries, and auditable system behavior.
 
 ---
 
-### 🛠️ Development Status: Alpha Phase
-We are currently in a period of **active infrastructure synthesis**. While our repositories remain public to maintain the principles of transparency and open-source verification, the codebase is experimental and subject to iterative refinement.
+## Current Scope (Alpha)
 
-* 🧪 **Research Focus:** Quorum-based Neural Bridging and consensus synchronization.
-* 🔧 **Development:** Cross-chain state propagation and deterministic execution.
-* 🎨 **UX Design:** Harmonizing multi-chain management into a singular, intuitive interface.
+At this stage, AOXC follows a limited and practical scope:
+
+- run and validate live deployments,
+- test cross-chain design assumptions step by step,
+- expand only after technical stability is demonstrated.
+
+This means the current architecture is intentionally narrow and iterative.
 
 ---
-*Built with integrity for a decentralized future.*
+
+## Primary Operational Network
+
+For the current phase, **X Layer is the main active network** for AOXChain.
+
+---
+
+## Live X Layer References
+
+- **Main Contract:** https://www.oklink.com/tr/x-layer/address/0x97bdd1fd1caf756e00efd42eba9406821465b365/contract
+- **Proxy Token Contract:** https://www.oklink.com/tr/x-layer/token/0xeb9580c3946bb47d73aae1d4f7a94148b554b2f4?tab=contract
+- **Multisig Contract:** https://www.oklink.com/tr/x-layer/address/0x20c0dd8b6559912acfac2ce061b8d5b19db8ca84/contract
+
+These links are provided for direct, independent verification of live on-chain artifacts.
+
+---
+
+## Repository Note
+
+This `.github` repository provides organization-level profile and documentation content.
+
+For code and deployments, refer to the repositories that are actually published under the **aoxc** organization (for example, `aoxchain`).
+
+---
+
+## Maturity Statement
+
+AOXC is in an **active alpha research phase**. Rapid iteration is expected while technical assumptions are validated.
