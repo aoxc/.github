@@ -3,22 +3,33 @@
 
   <h1>AOXChain</h1>
 
-  <h3>Modular interoperability infrastructure for coordinated multi-chain systems</h3>
-
   <p>
-    <img src="https://img.shields.io/badge/Stage-Alpha-7C3AED?style=for-the-badge" alt="Alpha" />
-    <img src="https://img.shields.io/badge/Architecture-Modular-0F766E?style=for-the-badge" alt="Modular" />
-    <img src="https://img.shields.io/badge/Focus-Interoperability-111827?style=for-the-badge" alt="Interoperability" />
-    <img src="https://img.shields.io/badge/Design-Auditable-F59E0B?style=for-the-badge" alt="Auditable" />
+    <strong>Auditable coordination infrastructure for modular multi-chain interoperability</strong>
   </p>
 
   <p>
-    <strong>
-      AOXChain is building a clear, disciplined, and scalable coordination layer
-      for cross-chain communication, execution, governance, and value routing.
-    </strong>
+    AOXChain is building a disciplined and extensible foundation for cross-chain
+    communication, programmable execution, governance coordination, and value routing.
+  </p>
+
+  <p>
+    <img src="https://img.shields.io/badge/Stage-Alpha-8B5CF6?style=for-the-badge&labelColor=EDE9FE" alt="Stage Alpha" />
+    <img src="https://img.shields.io/badge/Architecture-Modular-14B8A6?style=for-the-badge&labelColor=CCFBF1" alt="Architecture Modular" />
+    <img src="https://img.shields.io/badge/Focus-Interoperability-3B82F6?style=for-the-badge&labelColor=DBEAFE" alt="Focus Interoperability" />
+    <img src="https://img.shields.io/badge/Design-Auditable-F59E0B?style=for-the-badge&labelColor=FEF3C7" alt="Design Auditable" />
+    <img src="https://img.shields.io/badge/Execution-Coordinated-EC4899?style=for-the-badge&labelColor=FCE7F3" alt="Execution Coordinated" />
+  </p>
+
+  <p>
+    <img src="https://img.shields.io/badge/Governance-Structured-6366F1?style=for-the-badge&labelColor=E0E7FF" alt="Governance Structured" />
+    <img src="https://img.shields.io/badge/Messaging-Cross--Chain-06B6D4?style=for-the-badge&labelColor=CFFAFE" alt="Messaging Cross-Chain" />
+    <img src="https://img.shields.io/badge/Routing-Value--Aware-84CC16?style=for-the-badge&labelColor=ECFCCB" alt="Routing Value-Aware" />
+    <img src="https://img.shields.io/badge/Security-Protocol--Ready-F97316?style=for-the-badge&labelColor=FFEDD5" alt="Security Protocol-Ready" />
+    <img src="https://img.shields.io/badge/Approach-Scalable-0EA5E9?style=for-the-badge&labelColor=E0F2FE" alt="Approach Scalable" />
   </p>
 </div>
+
+
 ---
 
 ## Overview
