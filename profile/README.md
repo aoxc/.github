@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./profile/aoxc_logo_2926_1001.png" alt="AOXChain logo" width="220" />
+  <img src="./profile/aoxc_logo_2926_1001.png" alt="AOXChain logo" width="260" />
 
   <h1>AOXChain</h1>
 
