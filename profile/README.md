@@ -3,20 +3,20 @@
 
   <h1>AOXChain</h1>
 
-  <h3>Modular interoperability infrastructure for coordinated multi-chain systems</h3>
-
   <p>
-    <img src="https://img.shields.io/badge/Stage-Alpha-7C3AED?style=for-the-badge" alt="Alpha" />
-    <img src="https://img.shields.io/badge/Architecture-Modular-0F766E?style=for-the-badge" alt="Modular" />
-    <img src="https://img.shields.io/badge/Focus-Interoperability-111827?style=for-the-badge" alt="Interoperability" />
-    <img src="https://img.shields.io/badge/Design-Auditable-F59E0B?style=for-the-badge" alt="Auditable" />
+    <strong>Auditable coordination infrastructure for modular multi-chain interoperability</strong>
   </p>
 
   <p>
-    <strong>
-      AOXChain is building a clear, disciplined, and scalable coordination layer
-      for cross-chain communication, execution, governance, and value routing.
-    </strong>
+    <img src="https://img.shields.io/badge/Stage-Alpha-6D28D9?style=for-the-badge&labelColor=0B1220" alt="Stage Alpha" />
+    <img src="https://img.shields.io/badge/Modular-0F766E?style=for-the-badge&labelColor=0B1220" alt="Modular" />
+    <img src="https://img.shields.io/badge/Interoperability-2563EB?style=for-the-badge&labelColor=0B1220" alt="Interoperability" />
+    <img src="https://img.shields.io/badge/Auditable-D97706?style=for-the-badge&labelColor=0B1220" alt="Auditable" />
+  </p>
+
+  <p>
+    AOXChain is building a disciplined coordination layer for cross-chain communication,
+    programmable execution, governance orchestration, and value routing.
   </p>
 </div>
 
