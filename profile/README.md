@@ -1,9 +1,9 @@
 <div align="center">
-  <img src="./aoxc_logo_2926_1001.png" alt="AOXChain logo" width="220" />
+  <img src="./profile/aoxc_logo_2926_1001.png" alt="AOXChain logo" width="220" />
 
-  # AOXChain
+  <h1>AOXChain</h1>
 
-  ### Modular interoperability infrastructure for coordinated multi-chain systems
+  <h3>Modular interoperability infrastructure for coordinated multi-chain systems</h3>
 
   <p>
     <img src="https://img.shields.io/badge/Stage-Alpha-7C3AED?style=for-the-badge" alt="Alpha" />
@@ -12,7 +12,12 @@
     <img src="https://img.shields.io/badge/Design-Auditable-F59E0B?style=for-the-badge" alt="Auditable" />
   </p>
 
-  <strong>AOXChain is building a clear, disciplined, and scalable coordination layer for cross-chain communication, execution, governance, and value routing.</strong>
+  <p>
+    <strong>
+      AOXChain is building a clear, disciplined, and scalable coordination layer
+      for cross-chain communication, execution, governance, and value routing.
+    </strong>
+  </p>
 </div>
 
 ---
