@@ -1,202 +1,171 @@
 <div align="center">
-  <img src="./profile/aoxc_logo_2926_1001.png" alt="AOXChain logo" width="220" />
+  <img src="./profile/aoxc_logo_2926_1001.png" alt="AOXC logo" width="240" />
 
-  <h1>AOXChain</h1>
+  <h1>AOXC</h1>
 
   <p>
-    <strong>Auditable coordination infrastructure for modular multi-chain interoperability</strong>
+    <strong>Canonical chain architecture for disciplined execution, governed evolution, and long-horizon interoperability</strong>
   </p>
 
   <p>
-    AOXChain is building a disciplined and extensible foundation for cross-chain
-    communication, programmable execution, governance coordination, and value routing.
+    AOXC is building a blockchain foundation centered on protocol clarity, execution integrity, and modular long-term growth.
   </p>
 
   <p>
     <img src="https://img.shields.io/badge/Stage-Alpha-8B5CF6?style=for-the-badge&labelColor=EDE9FE" alt="Stage Alpha" />
+    <img src="https://img.shields.io/badge/Chain-Canonical-111827?style=for-the-badge&labelColor=E5E7EB" alt="Chain Canonical" />
+    <img src="https://img.shields.io/badge/Execution-Disciplined-EC4899?style=for-the-badge&labelColor=FCE7F3" alt="Execution Disciplined" />
+    <img src="https://img.shields.io/badge/Governance-Structured-6366F1?style=for-the-badge&labelColor=E0E7FF" alt="Governance Structured" />
     <img src="https://img.shields.io/badge/Architecture-Modular-14B8A6?style=for-the-badge&labelColor=CCFBF1" alt="Architecture Modular" />
-    <img src="https://img.shields.io/badge/Focus-Interoperability-3B82F6?style=for-the-badge&labelColor=DBEAFE" alt="Focus Interoperability" />
-    <img src="https://img.shields.io/badge/Design-Auditable-F59E0B?style=for-the-badge&labelColor=FEF3C7" alt="Design Auditable" />
-    <img src="https://img.shields.io/badge/Execution-Coordinated-EC4899?style=for-the-badge&labelColor=FCE7F3" alt="Execution Coordinated" />
   </p>
 
   <p>
-    <img src="https://img.shields.io/badge/Governance-Structured-6366F1?style=for-the-badge&labelColor=E0E7FF" alt="Governance Structured" />
-    <img src="https://img.shields.io/badge/Messaging-Cross--Chain-06B6D4?style=for-the-badge&labelColor=CFFAFE" alt="Messaging Cross-Chain" />
-    <img src="https://img.shields.io/badge/Routing-Value--Aware-84CC16?style=for-the-badge&labelColor=ECFCCB" alt="Routing Value-Aware" />
-    <img src="https://img.shields.io/badge/Security-Protocol--Ready-F97316?style=for-the-badge&labelColor=FFEDD5" alt="Security Protocol-Ready" />
-    <img src="https://img.shields.io/badge/Approach-Scalable-0EA5E9?style=for-the-badge&labelColor=E0F2FE" alt="Approach Scalable" />
+    <img src="https://img.shields.io/badge/Design-Fail--Closed-F59E0B?style=for-the-badge&labelColor=FEF3C7" alt="Design Fail-Closed" />
+    <img src="https://img.shields.io/badge/Runtime-Governed-8B5CF6?style=for-the-badge&labelColor=EDE9FE" alt="Runtime Governed" />
+    <img src="https://img.shields.io/badge/Direction-Long--Horizon-10B981?style=for-the-badge&labelColor=D1FAE5" alt="Direction Long-Horizon" />
+    <img src="https://img.shields.io/badge/Interop-Secondary%20to%20Identity-3B82F6?style=for-the-badge&labelColor=DBEAFE" alt="Interop Secondary to Identity" />
+    <img src="https://img.shields.io/badge/Status-Under%20Active%20Architecture-F97316?style=for-the-badge&labelColor=FFEDD5" alt="Status Under Active Architecture" />
   </p>
 </div>
 
+---
+
+<div align="center">
+
+### A chain should have a clear constitutional core before it expands outward.
+
+AOXC is being developed first as a **canonical chain with its own direction**,  
+and only secondarily as a horizon for broader interoperability and execution coordination.
+
+</div>
 
 ---
 
-## Overview
+## ✦ What AOXC Is
 
-AOXChain is an alpha-stage blockchain infrastructure initiative focused on interoperability with structure.
+AOXC is a blockchain infrastructure initiative focused on building a **self-directed, durable, and governance-aware chain architecture**.
 
-The project is designed to help multiple blockchain environments work together through a modular coordination model that emphasizes:
-
-- secure cross-chain messaging
-- consistent execution logic
-- auditable operational flows
-- explicit governance surfaces
-- long-term architectural clarity
-
-Rather than treating interoperability as a collection of disconnected bridges or integrations, AOXChain positions it as a unified infrastructure problem that should be solved with discipline, visibility, and upgradeability.
+It is not being shaped as a loose wrapper around other ecosystems, nor as a protocol whose identity depends on borrowed execution models. The primary direction is to establish a chain that remains coherent in its own right — with explicit execution discipline, structured system evolution, and long-term architectural continuity.
 
 ---
 
-## Vision
+## ✦ Current Direction
 
-AOXChain aims to become a reliable interoperability foundation for ecosystems that need more than simple token transfer.
+The present AOXC direction is centered on the chain itself as the primary protocol surface.
 
-Its long-term direction is to support coordinated multi-chain systems where messaging, execution, value movement, and governance can evolve together without forcing a full architectural reset every time the network expands.
+That means prioritizing:
 
-In practical terms, the vision is to create infrastructure that is:
+- deterministic and fail-closed execution behavior
+- explicit runtime and contract boundaries
+- governance-aware protocol evolution
+- stable architectural layers
+- long-term continuity over short-term feature noise
 
-- modular enough to support multiple chain categories
-- structured enough to remain understandable as it grows
-- transparent enough to support auditing and operational trust
-- flexible enough to adapt to future execution models
+AOXC is being built to grow without losing its internal logic.
 
 ---
 
-## What AOXChain Solves
+## ✦ Architectural Position
 
-As blockchain ecosystems mature, the challenge is no longer only launching smart contracts or moving assets between networks.
-The real challenge is coordination.
+AOXC is not being positioned as “just another interoperability system.”
 
-AOXChain is intended to address common ecosystem problems such as:
+Its architectural posture is different:
 
-| Challenge | AOXChain Response |
+| Focus Area | AOXC Direction |
 |---|---|
-| Fragmented interoperability models | Introduces a more unified coordination architecture |
-| Inconsistent cross-chain messaging | Promotes structured and verifiable communication pathways |
-| Weak governance visibility | Defines clearer operational and administrative control surfaces |
-| Difficult execution coordination | Supports modular execution across different environments |
-| Poor system transparency | Encourages traceability, auditability, and clearer system behavior |
+| Chain identity | Canonical first |
+| Execution philosophy | Disciplined and explicit |
+| Governance | Structured and intentional |
+| Architecture | Modular without narrative drift |
+| Interoperability | Important, but secondary to protocol coherence |
+| Long-term evolution | Built around continuity, not fragmentation |
 
 ---
 
-## Core Architecture Model
+## ✦ Execution Philosophy
 
-AOXChain can be understood as a layered coordination framework.
+AOXC is being shaped around a simple idea:
 
-### 1. Coordination Layer
-Defines how connected blockchain environments interact, synchronize, and follow shared operating rules.
+> **Execution must remain understandable, governable, and structurally clean.**
 
-### 2. Messaging Layer
-Handles cross-network communication, event propagation, and structured signal delivery.
+This means the protocol places value on:
 
-### 3. Execution Layer
-Supports coordinated execution across different environments while preserving system consistency.
+- clear execution law
+- explicit state-transition boundaries
+- disciplined upgrade surfaces
+- auditable runtime behavior
+- protocol continuity across future phases
 
-### 4. Value Routing Layer
-Focuses on secure asset movement, transfer logic, and cross-chain value representation.
-
-### 5. Governance Layer
-Provides administrative control, policy management, and upgrade pathways.
-
-### 6. Visibility Layer
-Improves monitoring, inspectability, and audit-oriented understanding of system behavior.
+The objective is not uncontrolled expansion.  
+The objective is to ensure that every later layer inherits a base that remains stable, inspectable, and coherent.
 
 ---
 
-## System View
+## ✦ Interoperability Horizon
 
-```text
-Users / Builders / Partners
-           │
-           ▼
-    AOXChain Coordination
-           │
-   ┌───────┼────────┬────────┬────────┬────────┐
-   ▼       ▼        ▼        ▼        ▼        ▼
-Messaging Execution Routing Governance Visibility Expansion
-           │
-           ▼
- Connected Chain Categories
-```
+Interoperability is still part of the AOXC horizon — but it no longer defines the project’s center of gravity.
 
-This model reflects a long-term interoperability strategy rather than a narrow single-network product direction.
+AOXC recognizes that long-term blockchain infrastructure will need to coordinate across different environments. However, external interaction only becomes meaningful when it extends a chain that already has a clear architectural identity of its own.
+
+In AOXC’s direction, interoperability is a **horizon**, not a substitute for protocol definition.
 
 ---
 
-## Design Principles
+## ✦ VM Direction
 
-AOXChain is being shaped around a small set of durable principles:
+AOXC is not currently defined by dependence on any single external VM family.
 
-- **Clarity first** — every layer should have a defined role.
-- **Deterministic thinking** — behavior should remain understandable and inspectable.
-- **Modularity by design** — components should evolve without breaking the entire system model.
-- **Governance with intent** — control surfaces should be explicit, not improvised.
-- **Auditability as a feature** — transparency should be built into the architecture.
-- **Expansion without narrative drift** — growth should reinforce the design rather than dilute it.
+Its execution path is being shaped around protocol requirements first: security posture, execution discipline, governance needs, and long-term structural clarity. Over time, that direction may justify a more explicit AOXC-native execution architecture if and when such a step becomes necessary and mature enough to support the protocol responsibly.
+
+That possibility is treated as a matter of architecture — not as a matter of branding.
 
 ---
 
-## Why It Matters
+## ✦ Why This Matters
 
-Many interoperability projects communicate ambition, but not enough structure.
-AOXChain is intended to present both.
+Many systems gain connectivity while losing identity.
 
-The goal is to build infrastructure that is:
+AOXC is being built to avoid that tradeoff.
 
-- technically serious
-- partner-friendly
-- easy to understand at a high level
-- flexible enough for future integration paths
-- stable enough to support long-term ecosystem identity
-
-This makes AOXChain relevant not only for builders, but also for partners, researchers, operators, and communities evaluating the long-term quality of multi-chain infrastructure.
+The aim is to create a protocol foundation that can evolve, coordinate, and integrate over time **without dissolving execution clarity, governance boundaries, or architectural discipline**. In that sense, AOXC is oriented toward durability rather than improvisation.
 
 ---
 
-## Current Stage
+## ✦ Repository Role
 
-AOXChain is currently in **alpha**.
+This repository space presents the public technical direction and architectural identity of AOXC.
 
-At this stage, the priority is not feature overload.
-The priority is establishing a strong and credible foundation for:
+Its purpose is to communicate:
 
-- interoperability architecture
-- execution coordination
-- governance structure
-- operational visibility
-- scalable ecosystem growth
+- the canonical chain direction
+- the execution philosophy of the protocol
+- the governance and runtime posture of the system
+- the long-term interoperability horizon
+- the distinction between core protocol direction and non-canonical experimentation
 
----
-
-## Audience
-
-AOXChain is relevant for:
-
-- builders creating cross-chain applications
-- infrastructure teams exploring modular interoperability systems
-- ecosystem partners evaluating coordination layers
-- researchers studying multi-chain architecture design
-- strategic contributors focused on long-term infrastructure quality
+The canonical production-oriented direction belongs to the chain itself. Research, labs, and experimental work may continue separately, but they do not redefine the primary protocol line.
 
 ---
 
-## Repository Purpose
+## ✦ Current Focus
 
-This repository is used to present the AOXChain identity and project direction through GitHub profile and documentation content.
+AOXC is currently in **alpha**.
 
-As the ecosystem evolves, this space can expand to include:
+The present priority is not feature excess.  
+It is the construction of a strong and credible foundation for:
 
-- ecosystem overview materials
-- public architecture notes
-- contribution guidance
-- branding and communication assets
-- documentation for future modules and integrations
+- chain architecture
+- execution integrity
+- governed protocol evolution
+- modular runtime growth
+- long-horizon interoperability readiness
 
 ---
 
-## Closing Note
+<div align="center">
 
-AOXChain is being designed as infrastructure, not just as a narrative.
+## AOXC
 
-The emphasis is on building a modular interoperability foundation that remains clear, auditable, and expandable as multi-chain coordination becomes more important across the blockchain landscape.
+**Canonical where it matters. Modular where it helps. Disciplined where it counts.**
+
+</div>
